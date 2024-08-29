@@ -1,0 +1,16 @@
+{
+    "storeHouse": [
+        {
+            "sourceName": "🌹游魂主仓库🌹",
+            "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/🌹游魂主仓库🌹.json"
+        },
+        {
+            "sourceName": "🌹游魂备1仓库🌹",
+            "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/🌹游魂备1仓库🌹.json"
+        },
+        {
+            "sourceName": "🌷游魂备2仓库🌷",
+            "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/🌷游魂备2仓库🌷.json"
+        }
+    ]
+}
