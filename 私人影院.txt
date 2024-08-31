@@ -1,15 +1,6 @@
 {
   "sites": [
     {
-      "key": "csp_Kunyu77",
-      "name": "👒酷云七七〔公众号：人人资源〕",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "❤91麻豆",
       "name": "❤91麻豆源",
       "type": 1,

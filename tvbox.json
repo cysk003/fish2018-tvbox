@@ -1,16 +1,38 @@
-{
-    "storeHouse": [
-        {
-            "sourceName": "🌹游魂主仓库🌹",
-            "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/🌹游魂主仓库🌹.json"
-        },
-        {
-            "sourceName": "🌹游魂备1仓库🌹",
-            "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/🌹游魂备1仓库🌹.json"
-        },
-        {
-            "sourceName": "🌷游魂备2仓库🌷",
-            "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/master/🌷游魂备2仓库🌷.json"
-        }
-    ]
-}
+{"urls": [{"name": "Guard-H", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/main/Guard-H.txt"},
+          {"name": "18", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/main/18.txt"},
+          {"name": "9918(H)", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/main/9918(H).txt"},
+          {"name": "FenWe", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/main/FenWe.txt"},
+          {"name": "Gmmtekamu-18", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/main/Gmmtekamu-18.txt"},
+          {"name": "Huhujun", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/main/Huhujun.txt"},
+          {"name": "Peter(H)", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/main/Peter(H).txt"},
+          {"name": "PyramidStore", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/main/PyramidStore.txt"},
+          {"name": "README.md", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/main/README.md"},
+          {"name": "Study520x", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/main/Study520x.txt"},
+          {"name": "XXX1", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/main/XXX1.txt"},
+          {"name": "XXX6", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/main/XXX6.txt"},
+          {"name": "XXXXXZ", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/main/XXXXXZ.txt"},
+          {"name": "baip9+9", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/main/baip9+9.txt"},
+          {"name": "dalazhi-18", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/main/dalazhi-18.txt"},
+          {"name": "fenwe.ziyong", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/main/fenwe.ziyong.txt"},
+          {"name": "fenwed.xwoai18+", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/main/fenwed.xwoai18+.txt"},
+          {"name": "johnjackson", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/main/johnjackson.txt"},
+          {"name": "kjsc0310", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/main/kjsc0310.txt"},
+          {"name": "mengzehe[516]", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/main/mengzehe[516].txt"},
+          {"name": "qh", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/main/qh.txt"},
+          {"name": "zzzgit", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/main/zzzgit.txt"},
+          {"name": "分享者18+", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/main/分享者18+.txt"},
+          {"name": "千方百纪福利", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/main/千方百纪福利.txt"},
+          {"name": "娱乐影院03", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/main/娱乐影院03.txt"},
+          {"name": "娱乐影院04", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/main/娱乐影院04.txt"},
+          {"name": "娱乐影院05", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/main/娱乐影院05.txt"},
+          {"name": "娱乐影院06", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/main/娱乐影院06.txt"},
+          {"name": "娱乐影院07", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/main/娱乐影院07.txt"},
+          {"name": "娱乐影院08", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/main/娱乐影院08.txt"},
+          {"name": "娱乐影院09", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/main/娱乐影院09.txt"},
+          {"name": "性用社", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/main/性用社.txt"},
+          {"name": "私人影院", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/main/私人影院.txt"},
+          {"name": "秘密骚0", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/main/秘密骚0.txt"},
+          {"name": "绅士01", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/main/绅士01.txt"},
+          {"name": "绅士02", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/main/绅士02.txt"},
+          {"name": "绅士03", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/main/绅士03.txt"},
+          {"name": "飞机场11", "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fish2018/tvbox/main/飞机场11.txt"}]}
